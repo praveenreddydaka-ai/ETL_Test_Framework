@@ -1,0 +1,13 @@
+# IDE files
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Excel temp files
+~$*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db

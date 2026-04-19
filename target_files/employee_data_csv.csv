@@ -1,0 +1,11 @@
+id,name,age,salary,join_date,department,is_active
+1,Praveen,28,50000.5,2022-01-10,IT,Y
+2,Suresh,35,70000.0,2021-05-20,HR,Y
+3,,40,80000.75,2020-03-15,Finance,N
+4,Anjali,-1,45000.0,2023-07-01,IT,Y
+5,John@123,30,,2022-11-11,Sales,Y
+6,Meena,29,60000.0,,HR,N
+7,Raj,28,50000.5,2022-01-10,IT,Y
+8,Duplicate,28,50000.5,2022-01-10,IT,Y
+8,Duplicate,28,50000.5,2022-01-10,IT,Y
+9,Boundary,120,9999999.0,1900-01-01,Admin,N
